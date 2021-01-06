@@ -3,12 +3,7 @@ import Head from "next/head";
 export default function Home() {
   return (
     <>
-      <Head>
-        <html lang="en" />
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
+      <Head html>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
