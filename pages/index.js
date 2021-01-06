@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
+        <html lang="en" />
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
